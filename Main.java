@@ -166,7 +166,7 @@ public static void main() {
 //    System.out.println(score);
 //    if(score>=8)
 //        System.out.println("Strong Passowrd");
-//    if(score>=5)
+//    else if(score>=5)
 //        System.out.println("moderately Passowrd");
 //    else System.out.println("weak password");
 
